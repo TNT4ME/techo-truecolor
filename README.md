@@ -2,6 +2,10 @@
 
 ![demo gif](https://github.com/nwp8861/techo/blob/main/techo-demo.gif)
 
+## Fork
+
+This fork makes Teto's face & hair a bit clearer and translates a few comments to english.
+
 ## Sublime Overview
 
 This Python script is simply print text message to stdout like echo or cat command on Linux, but it can decorate your terminal with dotted [Teto](https://kasaneteto.jp/)'s face at that time. 
